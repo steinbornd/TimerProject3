@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Steinborn Timer Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="timer_one">Microwave Popcorn Timer</string>
+    <string name="timer_two">Stovetop Popcorn Timer</string>
+    <string name="pause">Pause</string>
+    <string name="time_remaining">Time Remaining:</string>
+    <string name="time_elapsed">Time Elapsed:</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="image">Image</string>
+    
+
+</resources>
